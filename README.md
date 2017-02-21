@@ -15,10 +15,11 @@
 - HTML
 - CSS
 
-## To Access:
-1. Clone the repository
-1. Pull down to local machine
-1. Run http-server and view on localhost
+## To Run:
+1. git clone https://github.com/aefinch/blog
+1. cd blog
+1. Run http-server
+1. Navigate in browser to http://localhost:8080
 
 ## Contributors:
 [Andrea Finch](https://github.com/aefinch)
