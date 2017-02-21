@@ -5,15 +5,15 @@
 
 ### Build a basic blog page that has 5 articles and any random topics you want to talk about. 
 
--There should be a page header containing the blog's title.
--There should be a page footer containing the copyright notice. 
--Each article has a header containing a title.
--Each article has a footer containing the author and publication date.
--Each article has at least one section.
+- There should be a page header containing the blog's title.
+- There should be a page footer containing the copyright notice. 
+- Each article has a header containing a title.
+- Each article has a footer containing the author and publication date.
+- Each article has at least one section.
 
 ## Technologies Used
--HTML
--CSS
+- HTML
+- CSS
 
 ## To Access:
 1. Clone the repository
